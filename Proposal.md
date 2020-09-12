@@ -13,6 +13,8 @@ We will focus on this use case, but trivially this robot can be used to help iso
 
 ## Interest and complexity
 The project is hardware intensive, but still it combines both hardware and software complexity.
+
+
 Hardware:
 1. building the robots: 
   - controlling the hover wheels we have at home via appropriate specific drivers and batteries. 
@@ -22,6 +24,8 @@ Hardware:
   - The navigation inside a room is a known problem, our goal is not to solve this problem. We want to have a basic solution that starts from known static obstacle navigation and then trying to have the dynamic as much as possible. 
 3. The integration between the robots and the navigation: 
   - both robot and camera will have in place a processing unit for decreasing the communication overhead. For the wheels, for simplicity, we will start using the Arduino microcontroller and after solving 2.1 we will integrate the camera and the robot to work in the same microcontroller. This will require from use to use a more powerful microcontroller such as raspberry PI. Raspberry PI, for example, requires to write a real-time controlling (TBD).
+
+
 Software:
 1. basically we don't have complex software besides that we need to have a skype video call, so we need to find an open-source API to connect our application to skype. The skype will be separated from the other logic.   
 2. controlling the robots: We need to control the robot remotely, thus the application side will send the commands via the server to the robot. 
