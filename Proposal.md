@@ -5,7 +5,8 @@
 The acceleration of aging is remarkable in many countries, such as Japan. According to Euronews, more than a quarter of the population is 65 or older.
 We want people who are living older to live a better quality of life using innovative technology that helps them in their daily life.
 We believe that a digital care system that has been the centerpiece of many countries is not enough. We are aware the loneliness and social isolation are growing additional concerns for older people especially those who have been left inside a nursing home. 
-In this project we build a robot that helps the elderly to communicate with their beloved ones via video call *we use Skype*. The caller can dial to the person, the robot gets the video call then smartly navigate inside the nursing home to the target. 
+In this project we build a robot that helps the elderly to communicate with their beloved ones via video call ( *we use Skype* ). The caller can dial to the person, the robot gets the video call then smartly navigate inside the nursing home to the target. 
+We will focus on this use case, but trivially this robot can be used to help isolated patients, for example Corona patients, to get their drugs/to communicate with their doctors/families remotely, etc.  
 
 
 ## Diagrams
