@@ -2,9 +2,10 @@
 
 ## Overview
 
-Elderlies safe chronic health conditions,
- 
-In this project we build a robot that helps elderlies to communicate with their families via video call *Skype* . The caller can dial to the person, the robot gets the video call then smartly navigate inside the nursing home to the target. Additionally, the caller can remotly control the robot. 
+The acceleration of aging is remarkable in many countries, such as Japan. According to Euronews, more than a quarter of the population is 65 or older.
+We want people who are living older to live a better quality of life using innovative technology that helps them in their daily life.
+We believe that a digital care system that has been the centerpiece of many countries is not enough. We are aware the loneliness and social isolation are growing additional concerns for older people especially those who have been left inside a nursing home. 
+In this project we build a robot that helps the elderly to communicate with their beloved ones via video call *we use Skype*. The caller can dial to the person, the robot gets the video call then smartly navigate inside the nursing home to the target. 
 
 
 ## Diagrams
@@ -41,7 +42,7 @@ TBD: Describe here the application side.
 
 ## Equipment Needed
 - Hover wheels and its 3d printed parts.
-- 4X Drivers: DC 12-36V 500W Brushless Motor PWM Control Controller.
+- 4X Drivers: DC 12-36V 500W Brushless Motor PWM Control Controller. https://www.ebay.com/itm/DC-12-36V-500W-Brushless-Motor-PWM-Control-Controller-Balanced-Driver-Board-A2TF/392824340015?hash=item5b7627be2f:g:M-QAAOSwxxZe12H-
 - Lipo batteries 
 - TBD: Camera for navigation. 
 - TBD: Microcontrollers, Arduino for basic controlling. 
