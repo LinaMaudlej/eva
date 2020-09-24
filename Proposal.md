@@ -49,7 +49,7 @@ TBD: Describe here the application side.
 - Hover wheels and its 3d printed parts.
 - 4X Drivers: DC 12-36V 500W Brushless Motor PWM Control Controller. https://www.ebay.com/itm/DC-12-36V-500W-Brushless-Motor-PWM-Control-Controller-Balanced-Driver-Board-A2TF/392824340015?hash=item5b7627be2f:g:M-QAAOSwxxZe12H-
 - Lipo batteries 
-- TBD: Camera for navigation. 
+- TBD: Camera for navigation. We have two options: 1)https://www.seeedstudio.com/Pixy2-CMUcam5-Smart-Vision-Sensor-p-3091.html  2) https://www.intelrealsense.com/depth-camera-d435/ 
 - TBD: Microcontrollers, Arduino for basic controlling. 
 
 
